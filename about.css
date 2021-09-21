@@ -1,0 +1,53 @@
+
+
+h3{
+    font-weight: normal;
+}
+
+h4{
+    font-weight: normal;
+}
+
+li {
+    color:black;
+}
+.food{
+    color: rgb(6,85,53);
+    background-color:rgb(220,237,193);
+    padding: 30px 30px 30px 30px;
+    ;
+}
+
+
+header{
+    width: 1000px;
+    margin: 0 auto;
+    border: soild 1px green;
+}
+
+a[target="_blank"]
+{
+ color: blue;
+}
+
+a:link { color: blue; }
+a:hover { color: bold;}
+input:focus { background-color: yellow;}
+a:active { color: rgb(238, 64, 64) }
+a:visited { color: green; }
+
+
+
+#치킨 {
+    color: rgb(218,165,32);
+}
+
+#엽떡 {
+    color: rgb(128,0,0);
+}
+
+#회 {
+    color: rgb(128,128,128);
+}
+
+@import "reset.css";
